@@ -1,9 +1,36 @@
-<DOCTYPE! html>
-  <html>
-    <head>
-      <link>
-      <title></title>
-    </head>
-    <body>
-    </body>
-  </html>
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Design Recreation</title>
+			<link type="html/css" rel="stylesheet" href="noahdesignrecreation.css">
+		</head>
+		<body style="background-color:#fcffe6">
+		<table border="1px">	
+			<thead>
+				<tr>
+					<th colspan="6">
+						<div id="topline" style="width:900px; height:50px; background-color:#0a0a29"></div>
+					</th>
+				</tr>
+				<tr>
+					<td>	
+						<div id="greenbox" style="width:125px; height:125px; background-color:#00e6b8"></div>
+					</td>
+					<td>
+						<div id="greenbox" style="width:125px; height:125px; background-color:#00e6b8"></div>
+					</td>
+					<td>
+						<div id="greenbox" style="width:125px; height:125px; background-color:#00e6b8"></div>
+					</td>
+					<td>
+						<div id="greenbox" style="width:125px; height:125px; background-color:#00e6b8"></div>
+					</td>
+					<td>
+						<div id="greenbox" style="width:125px; height:125px; background-color:#00e6b8"></div>
+					</td>
+					<td>
+						<div id="greenbox" style="width:125px; height:125px; background-color:#00e6b8"></div>
+					</td>
+				</tr>
+		</body>
+	</html>
